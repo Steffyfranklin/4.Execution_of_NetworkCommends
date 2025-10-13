@@ -28,5 +28,11 @@ This commands includes
 
 ## Output
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f49512ce-5fd6-4e4a-ac4e-e27c0ce0901f" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b8a7808e-e0ad-46a1-a12d-d6320634401a" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a72514b3-838e-4744-ba93-0e41b6af6013" />
+
 ## Result
 Thus Execution of Network commands Performed 
