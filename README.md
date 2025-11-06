@@ -28,11 +28,14 @@ This commands includes
 
 ## Output
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f49512ce-5fd6-4e4a-ac4e-e27c0ce0901f" />
+<img width="1916" height="1079" alt="Screenshot 2025-11-06 103057" src="https://github.com/user-attachments/assets/59d61be6-76ab-4679-932e-9ea725319578" />
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b8a7808e-e0ad-46a1-a12d-d6320634401a" />
+<img width="1919" height="1135" alt="Screenshot 2025-11-06 103112" src="https://github.com/user-attachments/assets/40810a26-f1f6-4833-99e4-4e926305a4a3" />
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a72514b3-838e-4744-ba93-0e41b6af6013" />
+<img width="1918" height="1133" alt="Screenshot 2025-11-06 103126" src="https://github.com/user-attachments/assets/a41911c7-772b-44ec-a23e-9628fd6cf887" />
+
+<img width="1919" height="834" alt="Screenshot 2025-11-06 103139" src="https://github.com/user-attachments/assets/0e3a1549-588f-4997-82b2-68f09aac503e" />
+
 
 ## Result
 Thus Execution of Network commands Performed 
